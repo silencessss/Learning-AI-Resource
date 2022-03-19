@@ -11,3 +11,5 @@ Resource | Learning AI
     > - [Notes | An MIT Press book - Deep Learning | Notation](https://hackmd.io/@6AsFOh75S6qsFQiLJ05N8w/HyPn5Alzc)
     > - [Notes | An MIT Press book - Deep Learning | Chapter 2: Linear Algebra](https://hackmd.io/@6AsFOh75S6qsFQiLJ05N8w/rJOVZkbzq)
     > - [Notes | An MIT Press book - Deep Learning | Chapter 5: Machine Learning Basics](https://hackmd.io/@6AsFOh75S6qsFQiLJ05N8w/BJl0kxbfq)
+    > - [Notes | An MIT Press book - Deep Learning | Chapter 7: Regularization for Deep Learning](https://hackmd.io/@6AsFOh75S6qsFQiLJ05N8w/B1swLBXz5)
+    > - [Notes | An MIT Press book - Deep Learning | Chapter 15: Representation Learning](https://hackmd.io/@6AsFOh75S6qsFQiLJ05N8w/rypZ0IXMc)
